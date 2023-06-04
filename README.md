@@ -4,3 +4,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=minhdatahihi&theme=buefy)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minhdatahihi&theme=buefy&utcOffset=8)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=minhdatahihi&hide_border=true&card_width=150&theme=buefy)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minhdatahihi&card_width=699&hide_border=true&theme=buefy)
