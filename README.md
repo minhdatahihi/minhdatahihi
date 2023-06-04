@@ -4,19 +4,19 @@
   </a>
  
   <a href="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minhdatahihi&theme=buefy&utcOffset=7">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minhdatahihi&theme=buefy&utcOffset=7&card_width=150" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minhdatahihi&theme=buefy&utcOffset=7&card_width=300" />
   </a>
  
   <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=minhdatahihi&theme=buefy">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=minhdatahihi&theme=buefy&card_width=150" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=minhdatahihi&theme=buefy&card_width=300" />
   </a>
  
  <a href="https://github-readme-streak-stats.herokuapp.com/?user=minhdatahihi&hide_border=true&card_width=150&theme=buefy">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhdatahihi&hide_border=true&card_width=150&theme=buefy" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhdatahihi&hide_border=true&card_width=300&theme=buefy" />
   </a> 
  
- <a href="https://github-readme-stats.vercel.app/api/wakatime?username=minhdatahihi&card_width=150&hide_border=true&theme=buefy">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=minhdatahihi&hide_border=true&theme=buefy&card_width=150" />
+ <a href="https://github-readme-stats.vercel.app/api/wakatime?username=minhdatahihi&card_width=300&hide_border=true&theme=buefy">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=minhdatahihi&hide_border=true&theme=buefy&card_width=300" />
   </a>
  
   <a href=""> 
